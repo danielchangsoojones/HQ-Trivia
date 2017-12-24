@@ -33,11 +33,11 @@ function findAnswerInSearchResults(searchResults, answers) {
     var answer1Count = getSearchCount(searchResults, answers.answer1);
     var answer2Count = getSearchCount(searchResults, answers.answer2);
 
-    var scores = {
-        answer0Count : answer0Count,
-        answer1Count: answer1Count,
-        answer2Count: answer2Count
-    };
+    var scores = {};
+
+    scores[answers.answer0] = answer0Count;
+    scores[answers.answer1] = answer1Count;
+    scores[answers.answer2] = answer2Count;
 
     return scores;
 }
