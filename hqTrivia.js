@@ -8,7 +8,7 @@ const client = new vision.ImageAnnotatorClient();
 
 // Performs text detection on the image file
 client
-  .textDetection('./resources/hq-photo.png')
+  .textDetection('./resources/hq-photo.png') //photo is replaced by automator with the newest screenshots
   .then(results => {
     //a block is each block of text
     // var blocks = results[0].fullTextAnnotation.pages[0].blocks[5];
