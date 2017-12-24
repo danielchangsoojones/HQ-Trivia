@@ -26,12 +26,7 @@ client
     // console.log(bensThing);
 
     var textParser = require("./visionTextJSONParser.js");
-    textParser.parse(results);
-
-    var question;
-    var answer1;
-    var answer2;
-    var answer3;
+    var QuestionAnswers = textParser.parse(results);
   })
   .catch(err => {
     console.error('ERROR:', err);
