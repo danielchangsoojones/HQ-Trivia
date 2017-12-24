@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dazzling-card-189307",
+  "private_key_id": "7bb31e4ccfb0b78bf8e52e8c5b96d9fe7b391bea",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCbT1uKAARVba4Y\n60xW929V/VmPe7Vy2BU1ltYrzM3xVXsjA9HpvvU4EaWwSK2FFaytL5X7ShL7HcPV\nqMVopEYnSsZzH0dtohuhamUnnihZAp/SmsdTWswU/MeadUEUWpvUE5Khh/cN1QUi\n+GREFmZbbiPc2pr8tRhAseJ9qefMAKDxdahlXZm/kv6Gos9weia3NBbFinL3Y7lt\n9gTREf4iJidKASO0rpTINZEcitBGHNp4pM6ln1hp2UUvU5kTObmWKpB6Ese61ZB9\nY/PkcekfcWBSMa8LrHcOxGgEWqju7f89yZ64yg7x6VaKeXoSnmPY68uD4+qxJzQJ\nohxCdWyZAgMBAAECggEAAqVy19fG5csSoQC8B5dRDFQJcfUXqGH01TmWuJ8AEKag\n4dMvgR4XK4y8F/7aW17SgbjtLfTwfIWLUAP/fm2eIblCcbUMuy98l7QqY7xsJOgd\n37FyHVd6DA7VOn/Y9gcn3zszemZzV9xTVBSLZiWY5OHsNoJ7CudDBzHWEXITAwTQ\n7RuIPGijBe63oy9PBDTEk/ipCbpw2xzRmV59nSFI9PbvJXYvryTA4a1DDip+yOq/\nRRYlXFuNnY9bp2bJkYQTihYNcfomhA1VJBIKeDJbYS9bPQlZq9eGh6jyoWH8+0mx\nHg+lWQmOzarEy+UinQLrV8tKldko44k7a8daPF4woQKBgQDMk4nieJlVjjvJJ3c5\nvZH1KHKzPOEYUDMhl/BkPqLbEIdDFg9pOMQoyFGMXB0PavbV5wmt/vukpWrr44BO\nPROxDuUR/QldiDcWMILVB74u05WNl1JvS8UVyKsUW5tmnMUz6lYqZ99S+t0NAevg\n6CTSlfBMfWN9ajDzqDHG31qCTQKBgQDCWYlYM8m+8TWHxc/WTosW8pQ5QxZ/b6HV\nieOgDDDpsrwOwNvqeaz54qqJi1hKiwRZ46ju3SUpCviKLq91j56vPCt3c4A1RSWd\n5SN697elT1umUUfHgAy9UJyL07R6Hn/RV9xva+oBrtrQpBRIb1uu5q1PYpE5ACvU\njW5X5YeBfQKBgFTySoX0h88D0YV0UshyFAJVelM8y0b6PlELszEc5SjLky7jISET\nBjjc/SeoNBTr2HT3i4hpYXp7iYtLm0JhkCSsR6gRhusEncMj/5+PqIPvLaFunTdD\noiGqgodghoW0QRqOiprvKMdfDZzSGGz6WBftVKueQUqZZpw2Ufz/T6jdAoGBAKoc\n3Q8LJYewcf6JssYOschARGVqx4J8H9ddfpRUl2u3OsxfGx89qZ6APG1wPrPgwso7\nb17EywYFyE6LVqE8ONWBgTppKst13ts5+bhko6ZatAn8EywYdQ4wRRZPFCXgFFkU\n4qnUd1tJxdXiCK7uaf3Jg+F8kUinUbYWpYLiMZ2xAoGAEujBl/oFBuFw6MkM5j4Y\nxb0V9+VEbX1DMJASwWtTCwVkM7DaYkCLDnUhMTm5lPxMzezbX78mxggIyWG6/wyI\nx7Bs2qQDGyWUCbCMRKkDc4EVmcxiweIKfPfGTqLPikToZ+HH30CtI4QkDojlT8k6\nl6VMGCFtFEQ3DXOP/J/996w=\n-----END PRIVATE KEY-----\n",
+  "client_email": "trivia-testing@dazzling-card-189307.iam.gserviceaccount.com",
+  "client_id": "115977150459239829135",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/trivia-testing%40dazzling-card-189307.iam.gserviceaccount.com"
+}
