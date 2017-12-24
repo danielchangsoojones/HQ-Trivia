@@ -12,6 +12,9 @@ client
   .then(results => {
     var textParser = require("./visionTextJSONParser.js");
     var QuestionAnswers = textParser.parse(results);
+
+    var GoogleSearch = require('./search/GoogleSearchCount');
+    GoogleSearch.search(QuestionAnswers);
   })
   .catch(err => {
     console.error('ERROR:', err);

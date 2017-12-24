@@ -6,14 +6,7 @@
 
 var request = require('request');
 
-findGoogleSearchCount({
-    question: "when was albert einstein born?",
-    answer0: "2005",
-    answer1: "2015",
-    answer2: "1879"
-});
-
-function findGoogleSearchCount(hqData) {
+exports.search = function findGoogleSearchCount(hqData) {
     request.get({
         url: "https://www.googleapis.com/customsearch/v1",
         qs: {
