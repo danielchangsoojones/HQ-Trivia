@@ -23,6 +23,9 @@ client
     // console.log("Ben's thing: ");
     // console.log(bensThing);
 
+    var textParser = require("./visionTextJSONParser.js");
+    textParser.parse(results);
+
     var question;
     var answer1;
     var answer2;
