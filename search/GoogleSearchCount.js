@@ -29,7 +29,7 @@ function setScores(answers, body) {
 }
 
 function findAnswerInSearchResults(searchResults) {
-
+    
 }
 
 function extractSearchSnippets(body) {
