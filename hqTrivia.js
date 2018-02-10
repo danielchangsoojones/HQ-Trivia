@@ -1,5 +1,6 @@
 process.env.GOOGLE_APPLICATION_CREDENTIALS = "./trivia-testing-7bb31e4ccfb0.json";
 
+//hi
 // Imports the Google Cloud client library
 const vision = require('@google-cloud/vision');
 
